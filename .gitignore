@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+
+# AI models
+*.pt
+
+# Videos
+*.mp4
+
+# Images generated
+criminals/
+*.jpg
+*.jpeg
+*.png
+
+# Other
+*.pyc
